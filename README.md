@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/972bd25f-16a9-4fdb-b8e4-160ccfa906f2)### Olá! Eu sou o Thiago Henrique! 😉
+### Olá! Eu sou o Thiago Henrique! 😉
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago.hf_/) 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-figueredo-de-oliveira-6a67372b6//)
