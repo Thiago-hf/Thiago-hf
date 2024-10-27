@@ -17,6 +17,8 @@
 
 </div>
 
+<div align="center"> 
+  
 ## 🤖 Main Knowledge:
 
 ![React](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
